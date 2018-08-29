@@ -34,7 +34,7 @@ class Book
     
   end 
   
-  def turn_page
+  def turn_page (page)
     
   end 
   
