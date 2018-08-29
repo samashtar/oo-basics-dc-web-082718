@@ -9,7 +9,7 @@ class Book
   end 
   
   def author= (author)
-    @authorlearn spec/01_book_spec.rb= author 
+    @author= author 
     
   end 
   
